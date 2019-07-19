@@ -10,6 +10,8 @@
 
 * [自定义下拉刷新header组件](#react-native-pull-to-refresh-custom)
 
+* [motion-manager实现卡片动感光效动画](#react-native-motion-event-manager)
+
 ## react-native-lottery
 
 **React Native使用的9宫格抽奖转盘。**
