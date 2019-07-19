@@ -8,6 +8,8 @@
 
 * [仿App Store Today页](#show-case-1)
 
+* [自定义下拉刷新header组件](#react-native-pull-to-refresh-custom)
+
 ## react-native-lottery
 
 React Native使用的9宫格抽奖转盘。
@@ -39,3 +41,15 @@ React Native使用的9宫格抽奖转盘。
 ### Expo Demo
 
 [expo在线Demo](https://snack.expo.io/@wangcheng714/apple-app-of-the-day)
+
+## react-native-pull-to-refresh-custom
+
+**自定义下拉刷新header组件** 
+
+![pull to refresh screenshot](https://user-images.githubusercontent.com/219501/61520080-f9ac7000-aa3f-11e9-910c-7fa64f84f3ef.gif)
+
+[expo demo](https://snack.expo.io/@sophister/custom-pull-to-refresh-header)
+
+[github source](https://github.com/sophister/react-native-pull-to-refresh-custom)
+
+
