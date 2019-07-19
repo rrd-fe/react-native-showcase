@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
-[九宫格抽奖转盘](https://github.com/rrd-fe/react-native-showcase#show-case)
+* [九宫格抽奖转盘](#show-case)
 
-[仿App Store Today页](https://github.com/rrd-fe/react-native-showcase#show-case-1)
+* [仿App Store Today页](#show-case-1)
 
 ## react-native-lottery
 
